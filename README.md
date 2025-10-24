@@ -36,7 +36,7 @@
   <tr border="none">
   <td width="50%" align="center">
     
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ezequielcruzpaz&theme=dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://camo.githubusercontent.com/7fd023bf2a866069dfdb5f95b16a818f0d9246d3ec0a4379c4cd1905d585e647/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6162646f616368686f756269266c61796f75743d636f6d70616374267468656d653d6461726b2662675f636f6c6f723d304130413041" />
   <br><br>
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ezequiel streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ezequielcruzpaz&theme=dark&hide_border=false" />
   </td>
