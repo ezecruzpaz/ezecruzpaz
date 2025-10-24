@@ -42,7 +42,7 @@
   </td>
 
   <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielcruzpaz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://camo.githubusercontent.com/a18a0478851f204c26ddc9f0b60490a05021ff826b319ca832764513e938e0e7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d446970746f4368616b726162617274792673686f775f69636f6e733d747275655f636f6c6f723d6666662669636f6e5f636f6c6f723d37396666393726746578745f636f6c6f723d3966396639662662675f636f6c6f723d313531353135"/>
   </td>
   </tr>
   </table>
