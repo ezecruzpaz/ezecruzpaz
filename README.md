@@ -6,7 +6,6 @@
   <h1>Hi 👋, I'm <span style="color:#00BFFF;">Ezequiel Cruz Paz</span></h1>
   <h3>💻 Software Engineering Student | Software Development & Management</h3>
 </div>
-
 <!-- 🐍 Animated GIF -->
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" height="80" alt="wave-gif"/>
