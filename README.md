@@ -42,7 +42,7 @@ const ezequiel = {
 ## 🛠️ Technologies That I Know
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,aws,docker,html,css,discord,java,js,ts,python,linux,postgres,mongo,mysql,github,gitlab,express,react,redux,nodejs,notion,npm,figma,postman,firebase,flask,vscode,visualstudio,supabase&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,aws,docker,html,css,discord,java,js,ts,python,linux,postgres,mongo,mysql,github,gitlab,express,react,redux,nodejs,notion,npm,figma,postman,firebase,flask,vscode,visualstudio,supabase,cs,vue,angular,flutter,tailwind,spring,materialui,sqlite,materialui,nginx,apache,mariadb,cassandra,azure,postman,bash,jira,intellij,figma,notion,trello,powerbi,sklearn,numpy,matplotlib,opencv&perline=12" />
 </p>
 
 ### **Languages & Platforms**
@@ -69,6 +69,8 @@ const ezequiel = {
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 </p>
 
 ### **Databases**
@@ -99,7 +101,17 @@ const ezequiel = {
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
+</p>
+
+### **Data Science & ML**
+<p align="left">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
 </p>
 
 ### **Currently Leveling Up 🚀**
@@ -120,22 +132,6 @@ Blazor • NestJS • Microservices • SignalR • Kubernetes • CI/CD with Gi
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezecruzpaz&theme=algolia&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ezecruzpaz&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezecruzpaz&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -169,13 +165,6 @@ Blazor • NestJS • Microservices • SignalR • Kubernetes • CI/CD with Gi
 
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ezecruzpaz/ezecruzpaz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ezecruzpaz/ezecruzpaz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ezecruzpaz/ezecruzpaz/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
