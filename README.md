@@ -39,12 +39,6 @@ const ezequiel = {
 
 ---
 
-## 🛠️ Technologies That I Know
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,aws,docker,html,css,discord,java,js,ts,python,linux,postgres,mongo,mysql,github,gitlab,express,react,redux,nodejs,notion,npm,figma,postman,firebase,flask,vscode,visualstudio,supabase,cs,vue,angular,flutter,tailwind,spring,materialui,sqlite,materialui,nginx,apache,mariadb,cassandra,azure,postman,bash,jira,intellij,figma,notion,trello,powerbi,sklearn,numpy,matplotlib,opencv&perline=12" />
-</p>
-
 ### **Languages & Platforms**
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
@@ -55,10 +49,6 @@ const ezequiel = {
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
-### **Frameworks & Libraries**
-<p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
@@ -71,10 +61,6 @@ const ezequiel = {
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-</p>
-
-### **Databases**
-<p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
